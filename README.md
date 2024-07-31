@@ -3,6 +3,11 @@
 ## Objective:
 There can be multiple similar industry stock that are interesting to analyst but time consuming to go through each of the report. This repo is using current RAG method to index in one or more company and make comparison between two or more different companies.
 
+## Stack in use
+- llama-parse for document parsing
+- GPT4o-mini for query and embedding
+- langsmith for observability
+
 ## STEP 1 : Start
 ```
 To start with :
