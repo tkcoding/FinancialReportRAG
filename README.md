@@ -15,3 +15,8 @@ Insert both key into .env
 
 ## STEP 2: Report parser
 run through notebook/financial_report.ipynb
+
+## Suggestion of what to add and enhance
+Please log functionalities that you wish to add or enhance in issues section.
+
+## Contributor are all welcome
