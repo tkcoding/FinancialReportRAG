@@ -11,11 +11,13 @@ There can be multiple similar industry stock that are interesting to analyst but
 ## STEP 1 : Start
 ```
 To start with :
-edit .env with llamaindex and openAI API key.
-llamaindex : sign up at https://cloud.llamaindex.ai > API Key > Generate New Key
+edit .env with llamacloud and openAI API key.
+llamacloud : sign up at https://cloud.llamaindex.ai > API Key > Generate New Key
 openAI : sign up and go to https://platform.openai.com/api-keys > create new secret key
+langchain : sign up and go to https://smith.langchain.com/settings -> API keys
 
-Insert both key into .env
+
+Insert all key into .env
 ```
 
 ## STEP 2: Report parser
